@@ -1,0 +1,26 @@
+{
+  "name": "price_tracker",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "dependencies": {
+    "babel-jest": "^26.6.3",
+    "cheerio": "^1.0.0-rc.5",
+    "cherio": "^1.0.0-rc.2",
+    "jsdom": "^16.5.2",
+    "mongodb": "^3.6.5",
+    "mongoose": "^5.12.3",
+    "node-fetch": "^2.6.1",
+    "puppeteer": "^8.0.0",
+    "regenerator-runtime": "^0.13.7",
+    "request": "^2.88.2",
+    "request-promise": "^4.2.6",
+    "winston": "^3.3.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}

@@ -1,0 +1,26 @@
+[
+    { "value": "2", "text": "Ajapnyak" },
+    { "value": "3", "text": "Arabkir" },
+    { "value": "4", "text": "Avan" },
+    { "value": "5", "text": "Davtashen" },
+    { "value": "6", "text": "Erebuni" },
+    { "value": "7", "text": "Qanaqer Zeytun" },
+    { "value": "8", "text": "Kentron" },
+    { "value": "9", "text": "Malatia Sebastia" },
+    { "value": "10", "text": "Nor Norq" },
+    { "value": "11", "text": "Norq Marash" },
+    { "value": "12", "text": "Nubarashen" },
+    { "value": "13", "text": "Shengavit" },
+
+    { "value": "14", "text": "Aragacotn" },
+    { "value": "19", "text": "Ararat" },
+    { "value": "23", "text": "Armavir" },
+    { "value": "27", "text": "Artsakh" },
+    { "value": "35", "text": "Gegharquniq" },
+    { "value": "40", "text": "Kotayq" },
+    { "value": "49", "text": "Shirak" },
+    { "value": "52", "text": "Syunik" },
+    { "value": "57", "text": "Tavush" },
+    { "value": "61", "text": "Vayots Dzor" },
+    { "value": "64", "text": "Hayastanic Durs" }
+]
